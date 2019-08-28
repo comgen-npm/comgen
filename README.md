@@ -2,6 +2,8 @@
 
 Tired of creating a lot of commits to make your github profile look cool? This script will generate as many commits as you want in the number of days that you assign. This script will also create random messages for your commits.
 
+#DidIt4TheLulz
+
 ## Getting Started
 
 Run the following npm command to install
